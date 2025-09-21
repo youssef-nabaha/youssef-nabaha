@@ -1,2 +1,2 @@
 
-![](Einsteinia.gif)
+![](IA.gif)
