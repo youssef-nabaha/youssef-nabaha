@@ -1,2 +1,2 @@
 
-(Einsteinia.gif)
+[](Einsteinia.gif)
