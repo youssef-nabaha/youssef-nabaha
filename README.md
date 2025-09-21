@@ -1,2 +1,2 @@
 
-(Ensteinia.gif)
+(Einsteinia.gif)
